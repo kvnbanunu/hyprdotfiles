@@ -4,10 +4,15 @@
 
 !hypr
 !hypr/*
+!hypr/conf/*
 
 !nvim
 !nvim/*
+!nvim/after/*
+!nvim/after/plugin/*
+!nvim/lua/*
+!nvim/lua/plugins/*
 
 !kitty
 !kitty/*
-
+!kitty/wallpapers/*
