@@ -16,3 +16,6 @@
 !kitty
 !kitty/*
 !kitty/wallpapers/*
+
+!qt6ct
+!qt6ct/qt6ct.conf
