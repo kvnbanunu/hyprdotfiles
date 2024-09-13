@@ -19,3 +19,6 @@
 
 !qt6ct
 !qt6ct/qt6ct.conf
+
+!waybar
+!waybar/config.jsonc
