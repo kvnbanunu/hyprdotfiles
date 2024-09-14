@@ -5,6 +5,7 @@
 !hypr
 !hypr/*
 !hypr/conf/*
+!hypr/conf/monitors.conf
 
 !nvim
 !nvim/*
