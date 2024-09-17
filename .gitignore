@@ -18,8 +18,5 @@ hypr/conf/monitors.conf
 !kitty/*
 !kitty/wallpapers/*
 
-!qt6ct
-!qt6ct/qt6ct.conf
-
 !waybar
 !waybar/config.jsonc
