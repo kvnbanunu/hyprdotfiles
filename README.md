@@ -18,7 +18,7 @@ git clone https://github.com/kvnbanunu/dotfiles
 cd dotfiles
 ```
 
-### 2️⃣ Manage Your Coonfig List (`dirs.txt`)  
+### 2️⃣ Manage Your Config List (`dirs.txt`)  
 The script reads directories from `dirs.txt`.  
 Use `manage_dirs.sh` to **add or remove** directories.
 
